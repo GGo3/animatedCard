@@ -1,0 +1,14 @@
+
+.card {
+	width: 100px;
+	margin: 100px auto;
+
+}
+img {
+	width: 200px;
+
+}
+img:hover {
+	transition: 5s ease 0.5s;
+	transform: rotateY(360deg);
+}
